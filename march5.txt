@@ -1,0 +1,53 @@
+mkdir---make directory
+ls---list
+flag---( - )---detailed data
+ls -l -----details of folders or files that we created
+ls -a----hidden files and folders ----(.)
+ls -al ----
+
+man---manual---help book
+
+pwd----present working directory
+
+cd----change directory
+
+file creations----
+1. touch----create multiple empty files
+2. echo----you can enter data---but no modifications
+editors----
+3.nano
+ctrl+s----save
+ctrl+x----exit
+4.vi
+i----insert data
+esc----
+:wq----write and quit
+:q!----quit without saving
+
+cat --view the data present inside the file
+
+copy---cp
+
+deletion of files and folders----
+rmdir---remove empty directory
+rm -r ----remove non empty directory
+rm ---remove files
+
+sudo su----super doing, super user or switch user
+$---normal user
+home/ubuntu/#----root user
+package----apt---updation,deletion,installation
+sudo apt update
+
+grep-----search a pattern
+grep pattern filename
+grep -w pattern filename ---exact word
+grep -i pattern filename ----case insensitive data
+
+ps---process status
+ps -e ---entire list of processes
+ps -e | grep processname
+
+
+
+
